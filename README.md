@@ -120,3 +120,7 @@ $ npm install
 # run script
 $ npm start 
 ```
+
+<hr/>
+
+<img src="./docs/simulador_corridas_mario_kart.png" alt="Desafio: Simulador de Corridas do Mario Kart com Node.js" width="100%">
