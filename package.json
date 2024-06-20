@@ -1,0 +1,15 @@
+{
+  "name": "mario-kart-racing-simulator",
+  "version": "2.0.0",
+  "description": "Desafio: Simulador de Corridas do Mario Kart com Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
