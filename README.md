@@ -103,3 +103,20 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+<hr/>
+<b>Como executar e clonar este projeto:</b>
+
+```bash
+# Clone this repository
+$ git clone https://github.com/robsonamendonca/dio-nodejs-simulador-corridas-mario-kart
+
+# Go into the repository
+$ cd dio-nodejs-simulador-corridas-mario-kart
+
+# Install dependencies
+$ npm install
+
+# run script
+$ npm start 
+```
